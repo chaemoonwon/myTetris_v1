@@ -8,9 +8,7 @@ import java.util.Random;
 import javax.swing.JFrame;
 
 /**
- * The {@code Tetris} class is responsible for handling much of the game logic and
- * reading user input.
- * @author Brendan Jones
+ kkk
  *
  */
 public class Tetris extends JFrame {
